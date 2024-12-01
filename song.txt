@@ -3,4 +3,4 @@ die all
 staniding strong 
 
 
-git push delete
+add new feature in a new brance
