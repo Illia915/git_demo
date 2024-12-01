@@ -3,4 +3,3 @@ die all
 staniding strong 
 
 
-git push deletegit
